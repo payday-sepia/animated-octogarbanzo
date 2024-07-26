@@ -11,3 +11,4 @@ Artificial Intelligence Blockchain Don't be afraid to give up the good to go for
 Artificial Intelligence Latency Optimization Monitoring Logging Innovation distinguishes between a leader and a follower. Performance Docker Database Indexing Container Orchestration Load Testing Big Data Neural Networks Success doesn’t just find you. You have to go out and get it. Great things never come from comfort zones.
 Distributed Systems If you can dream it, you can do it. Big Data Blockchain API Gateway
 Serverless Difficult roads often lead to beautiful destinations. Agile Scalability Event Sourcing Data Science Performance Success is not in what you have, but who you are. Virtual Machines Container Orchestration Cache Invalidation Event-driven Architecture
+Artificial Intelligence DevOps Optimization Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. Load Balancing
