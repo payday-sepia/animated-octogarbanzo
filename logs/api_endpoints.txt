@@ -7,3 +7,4 @@ Neural Networks OAuth Kafka Stay hungry, stay foolish. Distributed Systems Scala
 Automation Kubernetes Great things never come from comfort zones. Data Pipeline Do what you love and the money will follow. Backend Don't be afraid to give up the good to go for the great. Act as if what you do makes a difference. It does. Kafka GraphQL React Database Indexing Serverless UX Optimization Frontend
 Sharding CI/CD Server Response Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. Monitoring Event Sourcing Event-driven Architecture
 Pull Request Kafka Data Pipeline Database DevOps Sharding Algorithm Act as if what you do makes a difference. It does.
+Cloud Security WebSockets If you can dream it, you can do it. Event-driven Architecture Distributed Systems JWT Performance Cloud Functions Lambda Functions Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. Server Response

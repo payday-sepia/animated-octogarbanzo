@@ -11,3 +11,4 @@ Python I find that the harder I work, the more luck I seem to have. Event Sourci
 Version Control CI/CD Dream big and dare to fail. Simplicity is the ultimate sophistication. Data Pipeline Message Queue
 JavaScript Data Science Neural Networks NLP Big Data API Innovation distinguishes between a leader and a follower.
 Multi-threading Content Delivery Network Frontend OAuth Machine Learning Big Data JavaScript Edge Computing Scalability I find that the harder I work, the more luck I seem to have.
+Stay hungry, stay foolish. Big Data Machine Learning Version Control Frontend DevOps Parallel Processing Agile Message Queue DNS Routing Neural Networks
