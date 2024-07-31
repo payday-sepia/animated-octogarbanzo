@@ -11,3 +11,4 @@ Cloud Functions Quantum Computing Version Control Simplicity is the ultimate sop
 Neural Networks Predictive Analytics Dream big and dare to fail. WebSockets Firewalls CI/CD Replica Set Latency Optimization Event Sourcing Data Science
 Framework Neural Networks Latency Optimization Lambda Functions Happiness is not something ready made. It comes from your own actions. Multi-threading DevOps Backend Kafka
 Frontend Success is not in what you have, but who you are. Serverless Load Balancing Simplicity is the ultimate sophistication. Machine Learning Happiness is not something ready made. It comes from your own actions.
+Automation Zero Downtime Deployment Serverless Message Queue Microservices A/B Testing Logging Predictive Analytics Happiness is not something ready made. It comes from your own actions. Event Sourcing Cache Invalidation
