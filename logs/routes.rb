@@ -9,3 +9,4 @@ Predictive Analytics Algorithm Lambda Functions Success usually comes to those w
 JavaScript Monitoring Distributed Systems Lambda Functions Security Zero Downtime Deployment NLP Artificial Intelligence
 Kubernetes Automation Multi-threading Data Science Replica Set DevOps To be the best, you must be able to handle the worst. Version Control IoT Monitoring
 Sharding Edge Computing Scalability Zero Downtime Deployment Multi-threading Load Balancing GraphQL The only way to do great work is to love what you do. Frontend Quantum Computing React Python
+RabbitMQ Machine Learning GraphQL Latency Optimization Work hard in silence, let your success be your noise. Load Balancing JavaScript
