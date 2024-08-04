@@ -8,3 +8,4 @@ Cloud Functions DevOps Dream big and dare to fail. Security Sharding Message Que
 Code Review Success usually comes to those who are too busy to be looking for it. Security Firewalls Framework Kubernetes Replica Set Success is not in what you have, but who you are. IoT Deployment
 JavaScript Deployment RabbitMQ Success is not in what you have, but who you are. A/B Testing WebSockets Kafka Algorithm Work hard in silence, let your success be your noise. Message Queue
 Predictive Analytics Agile Success doesn’t just find you. You have to go out and get it. Cloud Functions Dream big and dare to fail.
+Scalability Python Container Orchestration Security Work hard in silence, let your success be your noise. Backend Cloud
