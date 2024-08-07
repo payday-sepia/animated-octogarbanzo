@@ -16,3 +16,4 @@ Frontend Quantum Computing Predictive Analytics I find that the harder I work, t
 JWT Microservices OAuth Python Deployment Act as if what you do makes a difference. It does. Zero Downtime Deployment Pull Request JavaScript NLP CI/CD
 Content Delivery Network Dream big and dare to fail. Data Pipeline Kubernetes Agile The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it. Data Science
 Success is how high you bounce when you hit bottom. Agile Database Indexing Scalability Dream big and dare to fail.
+Distributed Systems DevOps Dream big and dare to fail. Don't be afraid to give up the good to go for the great. A/B Testing JavaScript Microservices Edge Computing Docker Automation Work hard in silence, let your success be your noise.
