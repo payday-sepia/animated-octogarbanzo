@@ -9,3 +9,4 @@ A/B Testing DNS Routing Work hard in silence, let your success be your noise. Si
 Microservices Data Science Cloud Kubernetes A/B Testing Serverless Work hard in silence, let your success be your noise. GraphQL Algorithm Data Pipeline Success usually comes to those who are too busy to be looking for it. Load Testing Kafka
 Docker Version Control Content Delivery Network Kubernetes Dream big and dare to fail. Stay hungry, stay foolish. Cache Invalidation NLP Security Blockchain Big Data RabbitMQ Quantum Computing Framework Work hard in silence, let your success be your noise.
 Do what you love and the money will follow. Quantum Computing WebSockets Predictive Analytics Logging Event Sourcing Sharding Testing NLP API Python
+Lambda Functions Happiness is not something ready made. It comes from your own actions. Content Delivery Network Database Opportunities don't happen. You create them. Container Orchestration API NLP A/B Testing Cloud
