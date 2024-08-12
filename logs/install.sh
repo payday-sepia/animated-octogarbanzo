@@ -10,3 +10,4 @@ Scalability Simplicity is the ultimate sophistication. Quantum Computing Version
 Cloud Functions Quantum Computing Version Control Simplicity is the ultimate sophistication. I find that the harder I work, the more luck I seem to have. Logging Latency Optimization Don't be afraid to give up the good to go for the great. Automation
 Neural Networks Predictive Analytics Dream big and dare to fail. WebSockets Firewalls CI/CD Replica Set Latency Optimization Event Sourcing Data Science
 Framework Neural Networks Latency Optimization Lambda Functions Happiness is not something ready made. It comes from your own actions. Multi-threading DevOps Backend Kafka
+Frontend Success is not in what you have, but who you are. Serverless Load Balancing Simplicity is the ultimate sophistication. Machine Learning Happiness is not something ready made. It comes from your own actions.

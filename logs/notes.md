@@ -10,3 +10,4 @@ Serverless I find that the harder I work, the more luck I seem to have. Docker J
 Opportunities don't happen. You create them. DevOps Quantum Computing CI/CD To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. OAuth Python GraphQL Automation Big Data Act as if what you do makes a difference. It does. IoT Algorithm
 Virtual Machines NLP Microservices Difficult roads often lead to beautiful destinations. Multi-threading Testing Cloud Machine Learning
 Neural Networks Container Orchestration Containerization Distributed Systems Automation Data Pipeline
+Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions. Event Sourcing IoT Work hard in silence, let your success be your noise. OAuth Database Indexing Code Review Monitoring Testing Artificial Intelligence CI/CD Logging Act as if what you do makes a difference. It does. Container Orchestration
