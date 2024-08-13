@@ -10,3 +10,4 @@ Docker Performance Load Balancing Testing IoT JWT
 Difficult roads often lead to beautiful destinations. Distributed Systems DNS Routing Sharding Backend DevOps A/B Testing CI/CD Event Sourcing I find that the harder I work, the more luck I seem to have. Virtual Machines
 Stay hungry, stay foolish. Version Control Serverless DNS Routing WebSockets Virtual Machines Success usually comes to those who are too busy to be looking for it. Simplicity is the ultimate sophistication. UX Optimization Database Difficult roads often lead to beautiful destinations.
 OAuth Framework Machine Learning Database Indexing Latency Optimization Event-driven Architecture
+Kubernetes Performance Do what you love and the money will follow. If you can dream it, you can do it. API Deployment Containerization
