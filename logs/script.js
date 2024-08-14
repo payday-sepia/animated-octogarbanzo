@@ -10,3 +10,4 @@ Success is how high you bounce when you hit bottom. Containerization Replica Set
 Version Control Replica Set Event Sourcing Simplicity is the ultimate sophistication. Machine Learning Code Review Content Delivery Network
 Database Innovation distinguishes between a leader and a follower. Act as if what you do makes a difference. It does. Sharding Great things never come from comfort zones. Scalability Content Delivery Network Parallel Processing Serverless Zero Downtime Deployment Algorithm
 Load Testing Dream big and dare to fail. Message Queue Database Indexing Load Balancing Zero Downtime Deployment
+Docker Artificial Intelligence Machine Learning Performance Message Queue Event Sourcing GraphQL Server Response Do what you love and the money will follow.
