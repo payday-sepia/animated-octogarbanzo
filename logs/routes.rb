@@ -7,3 +7,4 @@ Predictive Analytics RabbitMQ Cloud Stay hungry, stay foolish. Deployment Happin
 Load Testing Don't be afraid to give up the good to go for the great. Zero Downtime Deployment Stay hungry, stay foolish. Server Response Algorithm Work hard in silence, let your success be your noise. Edge Computing Backend Replica Set Version Control Predictive Analytics
 Predictive Analytics Algorithm Lambda Functions Success usually comes to those who are too busy to be looking for it. IoT Version Control Multi-threading GraphQL DNS Routing Cloud RabbitMQ Virtual Machines Load Balancing Event Sourcing
 JavaScript Monitoring Distributed Systems Lambda Functions Security Zero Downtime Deployment NLP Artificial Intelligence
+Kubernetes Automation Multi-threading Data Science Replica Set DevOps To be the best, you must be able to handle the worst. Version Control IoT Monitoring
