@@ -10,3 +10,4 @@ Artificial Intelligence Load Testing Kafka Great things never come from comfort 
 Python I find that the harder I work, the more luck I seem to have. Event Sourcing DevOps NLP GraphQL Optimization Zero Downtime Deployment Do what you love and the money will follow. UX Optimization
 Version Control CI/CD Dream big and dare to fail. Simplicity is the ultimate sophistication. Data Pipeline Message Queue
 JavaScript Data Science Neural Networks NLP Big Data API Innovation distinguishes between a leader and a follower.
+Multi-threading Content Delivery Network Frontend OAuth Machine Learning Big Data JavaScript Edge Computing Scalability I find that the harder I work, the more luck I seem to have.
