@@ -14,3 +14,4 @@ Success doesn’t just find you. You have to go out and get it. Happiness is not s
 Data Science Blockchain Performance Multi-threading Message Queue UX Optimization Artificial Intelligence
 Frontend Quantum Computing Predictive Analytics I find that the harder I work, the more luck I seem to have. To be the best, you must be able to handle the worst. JavaScript Act as if what you do makes a difference. It does. Microservices Difficult roads often lead to beautiful destinations. API Gateway Version Control NLP
 JWT Microservices OAuth Python Deployment Act as if what you do makes a difference. It does. Zero Downtime Deployment Pull Request JavaScript NLP CI/CD
+Content Delivery Network Dream big and dare to fail. Data Pipeline Kubernetes Agile The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it. Data Science
