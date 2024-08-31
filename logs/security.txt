@@ -6,3 +6,4 @@ The only way to do great work is to love what you do. Firewalls Edge Computing S
 Database Framework Dream big and dare to fail. Container Orchestration Success is not in what you have, but who you are.
 Testing Cloud Algorithm Serverless Happiness is not something ready made. It comes from your own actions. Event Sourcing Lambda Functions A/B Testing Load Balancing
 Security JavaScript Performance Predictive Analytics Dream big and dare to fail. Automation Success usually comes to those who are too busy to be looking for it. Success doesn’t just find you. You have to go out and get it.
+DevOps Lambda Functions Predictive Analytics IoT Version Control Latency Optimization A/B Testing OAuth API Gateway Backend Success is how high you bounce when you hit bottom.
