@@ -5,3 +5,4 @@ Stay hungry, stay foolish. Work hard in silence, let your success be your noise.
 The only way to do great work is to love what you do. Firewalls Edge Computing Scalability JavaScript Automation Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment Agile Simplicity is the ultimate sophistication. NLP Security API Gateway GraphQL Microservices
 Database Framework Dream big and dare to fail. Container Orchestration Success is not in what you have, but who you are.
 Testing Cloud Algorithm Serverless Happiness is not something ready made. It comes from your own actions. Event Sourcing Lambda Functions A/B Testing Load Balancing
+Security JavaScript Performance Predictive Analytics Dream big and dare to fail. Automation Success usually comes to those who are too busy to be looking for it. Success doesn’t just find you. You have to go out and get it.
