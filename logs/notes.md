@@ -8,3 +8,4 @@ Performance Neural Networks JavaScript Latency Optimization If you can dream it,
 Deployment OAuth Data Science Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Kubernetes Message Queue Database Indexing Code Review Cloud Monitoring Serverless React
 Serverless I find that the harder I work, the more luck I seem to have. Docker JWT RabbitMQ Python Load Balancing Blockchain UX Optimization Sharding Container Orchestration
 Opportunities don't happen. You create them. DevOps Quantum Computing CI/CD To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. OAuth Python GraphQL Automation Big Data Act as if what you do makes a difference. It does. IoT Algorithm
+Virtual Machines NLP Microservices Difficult roads often lead to beautiful destinations. Multi-threading Testing Cloud Machine Learning
