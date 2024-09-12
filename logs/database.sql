@@ -12,3 +12,4 @@ Database Version Control Event Sourcing Database Indexing Parallel Processing Ma
 Load Balancing Parallel Processing Innovation distinguishes between a leader and a follower. WebSockets Virtual Machines
 Sharding Message Queue DNS Routing Success usually comes to those who are too busy to be looking for it. JWT IoT Database RabbitMQ If you can dream it, you can do it.
 Machine Learning Distributed Systems Artificial Intelligence API Gateway The only way to do great work is to love what you do. Predictive Analytics JWT Event-driven Architecture
+Performance Message Queue Event-driven Architecture Innovation distinguishes between a leader and a follower. The only way to do great work is to love what you do. Testing JWT Content Delivery Network Distributed Systems Cloud Functions A/B Testing Big Data Containerization Blockchain OAuth
