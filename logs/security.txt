@@ -1,3 +1,4 @@
 Firewalls Quantum Computing Version Control WebSockets Work hard in silence, let your success be your noise. Cloud Functions Content Delivery Network Edge Computing Success is not in what you have, but who you are.
 Security Distributed Systems Innovation distinguishes between a leader and a follower. Big Data Deployment Sharding Lambda Functions Zero Downtime Deployment Pull Request Code Review Success is how high you bounce when you hit bottom. Serverless
 API Gateway React I find that the harder I work, the more luck I seem to have. Serverless DevOps Microservices Success is not in what you have, but who you are. Agile Data Pipeline Success is how high you bounce when you hit bottom.
+Stay hungry, stay foolish. Work hard in silence, let your success be your noise. Replica Set Agile Backend JavaScript
