@@ -5,3 +5,4 @@ A/B Testing Difficult roads often lead to beautiful destinations. UX Optimizatio
 Blockchain Security DNS Routing WebSockets Replica Set Content Delivery Network
 Code Review Backend Stay hungry, stay foolish. React Message Queue Virtual Machines Microservices
 Cloud Functions DevOps Dream big and dare to fail. Security Sharding Message Queue Microservices Distributed Systems Database Indexing IoT RabbitMQ To be the best, you must be able to handle the worst. Success usually comes to those who are too busy to be looking for it.
+Code Review Success usually comes to those who are too busy to be looking for it. Security Firewalls Framework Kubernetes Replica Set Success is not in what you have, but who you are. IoT Deployment
