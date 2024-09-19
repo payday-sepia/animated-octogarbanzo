@@ -11,3 +11,4 @@ DevOps Content Delivery Network Lambda Functions Don't be afraid to give up the 
 Database Version Control Event Sourcing Database Indexing Parallel Processing Machine Learning Success usually comes to those who are too busy to be looking for it. Framework Distributed Systems NLP Big Data
 Load Balancing Parallel Processing Innovation distinguishes between a leader and a follower. WebSockets Virtual Machines
 Sharding Message Queue DNS Routing Success usually comes to those who are too busy to be looking for it. JWT IoT Database RabbitMQ If you can dream it, you can do it.
+Machine Learning Distributed Systems Artificial Intelligence API Gateway The only way to do great work is to love what you do. Predictive Analytics JWT Event-driven Architecture
