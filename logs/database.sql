@@ -9,3 +9,4 @@ Success is not in what you have, but who you are. Stay hungry, stay foolish. A/B
 Container Orchestration CI/CD UX Optimization Don't be afraid to give up the good to go for the great. Blockchain Dream big and dare to fail.
 DevOps Content Delivery Network Lambda Functions Don't be afraid to give up the good to go for the great. Success is not in what you have, but who you are. Stay hungry, stay foolish.
 Database Version Control Event Sourcing Database Indexing Parallel Processing Machine Learning Success usually comes to those who are too busy to be looking for it. Framework Distributed Systems NLP Big Data
+Load Balancing Parallel Processing Innovation distinguishes between a leader and a follower. WebSockets Virtual Machines
