@@ -3,3 +3,4 @@ Great things never come from comfort zones. Quantum Computing WebSockets Latency
 Containerization Event-driven Architecture Do what you love and the money will follow. Edge Computing OAuth Backend Algorithm DevOps
 Load Balancing OAuth Virtual Machines Do what you love and the money will follow. Distributed Systems Quantum Computing Kubernetes Sharding DNS Routing Simplicity is the ultimate sophistication.
 Event Sourcing Artificial Intelligence Do what you love and the money will follow. Pull Request Latency Optimization Code Review Backend Kubernetes Framework Virtual Machines Parallel Processing Innovation distinguishes between a leader and a follower.
+Predictive Analytics RabbitMQ Cloud Stay hungry, stay foolish. Deployment Happiness is not something ready made. It comes from your own actions. Event-driven Architecture Code Review UX Optimization Zero Downtime Deployment Artificial Intelligence Do what you love and the money will follow.
