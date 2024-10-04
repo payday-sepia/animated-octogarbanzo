@@ -8,3 +8,4 @@ Agile IoT Success is how high you bounce when you hit bottom. JWT Great things n
 Data Pipeline Framework Cloud Content Delivery Network Cloud Functions
 Artificial Intelligence Load Testing Kafka Great things never come from comfort zones. Agile Don't be afraid to give up the good to go for the great. Cloud Success is how high you bounce when you hit bottom. Latency Optimization
 Python I find that the harder I work, the more luck I seem to have. Event Sourcing DevOps NLP GraphQL Optimization Zero Downtime Deployment Do what you love and the money will follow. UX Optimization
+Version Control CI/CD Dream big and dare to fail. Simplicity is the ultimate sophistication. Data Pipeline Message Queue
