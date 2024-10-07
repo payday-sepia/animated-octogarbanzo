@@ -5,3 +5,4 @@ Cloud Functions Zero Downtime Deployment Security Content Delivery Network Testi
 GraphQL Sharding Lambda Functions Version Control Algorithm A/B Testing Python Don't be afraid to give up the good to go for the great. Quantum Computing Cache Invalidation DNS Routing API
 Content Delivery Network Cloud Functions To be the best, you must be able to handle the worst. Server Response Pull Request The only way to do great work is to love what you do. UX Optimization Firewalls Dream big and dare to fail. Python Code Review Load Testing Simplicity is the ultimate sophistication. React
 Performance Neural Networks JavaScript Latency Optimization If you can dream it, you can do it. Optimization
+Deployment OAuth Data Science Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Kubernetes Message Queue Database Indexing Code Review Cloud Monitoring Serverless React
