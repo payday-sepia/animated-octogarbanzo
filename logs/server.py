@@ -6,3 +6,4 @@ Load Balancing Database Predictive Analytics Big Data OAuth Lambda Functions Sta
 Code Review Optimization Message Queue Difficult roads often lead to beautiful destinations. UX Optimization To be the best, you must be able to handle the worst. Scalability Latency Optimization The only way to do great work is to love what you do. Data Pipeline Load Testing
 Agile IoT Success is how high you bounce when you hit bottom. JWT Great things never come from comfort zones.
 Data Pipeline Framework Cloud Content Delivery Network Cloud Functions
+Artificial Intelligence Load Testing Kafka Great things never come from comfort zones. Agile Don't be afraid to give up the good to go for the great. Cloud Success is how high you bounce when you hit bottom. Latency Optimization
