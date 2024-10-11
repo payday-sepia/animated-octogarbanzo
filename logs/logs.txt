@@ -7,3 +7,4 @@ A/B Testing React Work hard in silence, let your success be your noise. Database
 Blockchain Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower. DevOps Event Sourcing Monitoring Container Orchestration Quantum Computing Deployment Success doesn’t just find you. You have to go out and get it. Work hard in silence, let your success be your noise. Algorithm DNS Routing Distributed Systems
 NLP Version Control Event Sourcing Quantum Computing A/B Testing If you can dream it, you can do it.
 Serverless DNS Routing OAuth Backend Quantum Computing Pull Request Parallel Processing RabbitMQ Deployment WebSockets Big Data DevOps Containerization Version Control
+Microservices Python Zero Downtime Deployment Latency Optimization JWT
