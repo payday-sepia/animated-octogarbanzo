@@ -6,3 +6,4 @@ Opportunities don't happen. You create them. Container Orchestration GraphQL Pre
 Python The only way to do great work is to love what you do. Load Balancing Monitoring Kubernetes Blockchain Optimization Opportunities don't happen. You create them.
 Frontend Database Simplicity is the ultimate sophistication. API Gateway Automation Data Pipeline UX Optimization
 A/B Testing DNS Routing Work hard in silence, let your success be your noise. Simplicity is the ultimate sophistication. Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. Predictive Analytics
+Microservices Data Science Cloud Kubernetes A/B Testing Serverless Work hard in silence, let your success be your noise. GraphQL Algorithm Data Pipeline Success usually comes to those who are too busy to be looking for it. Load Testing Kafka
