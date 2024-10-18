@@ -7,3 +7,4 @@ Artificial Intelligence Zero Downtime Deployment Opportunities don't happen. You
 Lambda Functions Security Do what you love and the money will follow. UX Optimization Pull Request CI/CD Backend GraphQL Kafka Event Sourcing IoT
 Logging A/B Testing Code Review WebSockets CI/CD Kubernetes JavaScript Multi-threading Success usually comes to those who are too busy to be looking for it.
 Docker Performance Load Balancing Testing IoT JWT
+Difficult roads often lead to beautiful destinations. Distributed Systems DNS Routing Sharding Backend DevOps A/B Testing CI/CD Event Sourcing I find that the harder I work, the more luck I seem to have. Virtual Machines
