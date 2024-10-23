@@ -5,3 +5,4 @@ Difficult roads often lead to beautiful destinations. Parallel Processing Succes
 Load Balancing Database Predictive Analytics Big Data OAuth Lambda Functions Stay hungry, stay foolish. Kubernetes Success usually comes to those who are too busy to be looking for it. Serverless Multi-threading The only way to do great work is to love what you do. If you can dream it, you can do it. API Gateway
 Code Review Optimization Message Queue Difficult roads often lead to beautiful destinations. UX Optimization To be the best, you must be able to handle the worst. Scalability Latency Optimization The only way to do great work is to love what you do. Data Pipeline Load Testing
 Agile IoT Success is how high you bounce when you hit bottom. JWT Great things never come from comfort zones.
+Data Pipeline Framework Cloud Content Delivery Network Cloud Functions
