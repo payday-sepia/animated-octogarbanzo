@@ -12,3 +12,4 @@ NLP Logging Do what you love and the money will follow. Containerization Great t
 Zero Downtime Deployment Parallel Processing DevOps Lambda Functions Server Response
 Success doesn’t just find you. You have to go out and get it. Happiness is not something ready made. It comes from your own actions. Multi-threading Dream big and dare to fail. The only way to do great work is to love what you do. A/B Testing Work hard in silence, let your success be your noise. Blockchain Success is not in what you have, but who you are.
 Data Science Blockchain Performance Multi-threading Message Queue UX Optimization Artificial Intelligence
+Frontend Quantum Computing Predictive Analytics I find that the harder I work, the more luck I seem to have. To be the best, you must be able to handle the worst. JavaScript Act as if what you do makes a difference. It does. Microservices Difficult roads often lead to beautiful destinations. API Gateway Version Control NLP
