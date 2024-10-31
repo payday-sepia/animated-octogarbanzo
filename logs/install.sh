@@ -3,3 +3,4 @@ React Algorithm Serverless Work hard in silence, let your success be your noise.
 API I find that the harder I work, the more luck I seem to have. Frontend Do what you love and the money will follow. Simplicity is the ultimate sophistication. Scalability Replica Set Cloud Functions Serverless Monitoring Blockchain Performance
 Quantum Computing Machine Learning Server Response Cache Invalidation Sharding
 Great things never come from comfort zones. Kafka Version Control Content Delivery Network Edge Computing
+Performance Kubernetes Container Orchestration Predictive Analytics Success doesn’t just find you. You have to go out and get it. To be the best, you must be able to handle the worst. Logging DNS Routing Dream big and dare to fail. Automation The only way to do great work is to love what you do. Event-driven Architecture Microservices Neural Networks JavaScript
