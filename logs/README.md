@@ -6,3 +6,4 @@ Replica Set Cloud Cache Invalidation Python Data Pipeline Stay hungry, stay fool
 Artificial Intelligence Zero Downtime Deployment Opportunities don't happen. You create them. Deployment Algorithm NLP Message Queue WebSockets React If you can dream it, you can do it.
 Lambda Functions Security Do what you love and the money will follow. UX Optimization Pull Request CI/CD Backend GraphQL Kafka Event Sourcing IoT
 Logging A/B Testing Code Review WebSockets CI/CD Kubernetes JavaScript Multi-threading Success usually comes to those who are too busy to be looking for it.
+Docker Performance Load Balancing Testing IoT JWT
