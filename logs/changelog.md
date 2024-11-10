@@ -9,3 +9,4 @@ Frontend I find that the harder I work, the more luck I seem to have. Artificial
 Optimization Difficult roads often lead to beautiful destinations. Success usually comes to those who are too busy to be looking for it. Event Sourcing Data Science CI/CD Testing Predictive Analytics Replica Set Blockchain Zero Downtime Deployment Agile Parallel Processing
 Dream big and dare to fail. Deployment Sharding Backend Docker Opportunities don't happen. You create them. To be the best, you must be able to handle the worst. Database Indexing Agile
 NLP Logging Do what you love and the money will follow. Containerization Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions. I find that the harder I work, the more luck I seem to have.
+Zero Downtime Deployment Parallel Processing DevOps Lambda Functions Server Response
