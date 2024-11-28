@@ -2,3 +2,4 @@ Big Data Cache Invalidation Optimization NLP I find that the harder I work, the 
 Blockchain API Serverless DevOps NLP I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment Cache Invalidation
 Logging Don't be afraid to give up the good to go for the great. IoT Optimization Cloud Simplicity is the ultimate sophistication. Microservices Agile Success doesn’t just find you. You have to go out and get it. NLP Event Sourcing Virtual Machines Innovation distinguishes between a leader and a follower. Framework Lambda Functions
 Data Pipeline Version Control Database Indexing Serverless API Gateway
+Python Server Response Don't be afraid to give up the good to go for the great. Lambda Functions Cloud JWT Predictive Analytics
