@@ -6,3 +6,4 @@ Code Review Don't be afraid to give up the good to go for the great. Cache Inval
 Python Great things never come from comfort zones. Cloud Functions Neural Networks Success doesn’t just find you. You have to go out and get it. Load Balancing Backend GraphQL Automation Serverless
 Load Balancing Great things never come from comfort zones. Replica Set Microservices Innovation distinguishes between a leader and a follower. Firewalls A/B Testing Simplicity is the ultimate sophistication. Version Control Virtual Machines
 Success is not in what you have, but who you are. Stay hungry, stay foolish. A/B Testing Virtual Machines Python
+Container Orchestration CI/CD UX Optimization Don't be afraid to give up the good to go for the great. Blockchain Dream big and dare to fail.
