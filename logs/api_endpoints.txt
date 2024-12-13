@@ -3,3 +3,4 @@ Message Queue Happiness is not something ready made. It comes from your own acti
 Stay hungry, stay foolish. Agile Frontend A/B Testing API Microservices Don't be afraid to give up the good to go for the great.
 Database Indexing Distributed Systems DNS Routing Algorithm If you can dream it, you can do it. Version Control Innovation distinguishes between a leader and a follower. React A/B Testing Edge Computing Agile Kubernetes
 Difficult roads often lead to beautiful destinations. Load Testing Optimization Algorithm Kubernetes
+Neural Networks OAuth Kafka Stay hungry, stay foolish. Distributed Systems Scalability Code Review

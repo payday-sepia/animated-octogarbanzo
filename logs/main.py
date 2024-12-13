@@ -3,3 +3,4 @@ Parallel Processing Dream big and dare to fail. Kafka Event-driven Architecture 
 Neural Networks DevOps Database Indexing Success doesn’t just find you. You have to go out and get it. Machine Learning Event Sourcing A/B Testing Optimization Virtual Machines
 Event-driven Architecture Innovation distinguishes between a leader and a follower. Parallel Processing Data Science CI/CD Content Delivery Network Security If you can dream it, you can do it. Predictive Analytics Server Response Success doesn’t just find you. You have to go out and get it. Sharding Big Data Lambda Functions Machine Learning
 Opportunities don't happen. You create them. Container Orchestration GraphQL Predictive Analytics Code Review Kubernetes Message Queue
+Python The only way to do great work is to love what you do. Load Balancing Monitoring Kubernetes Blockchain Optimization Opportunities don't happen. You create them.
