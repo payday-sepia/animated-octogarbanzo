@@ -4,3 +4,4 @@ Predictive Analytics Cloud Functions DNS Routing Content Delivery Network Don't 
 Difficult roads often lead to beautiful destinations. CI/CD GraphQL Deployment A/B Testing OAuth Multi-threading Virtual Machines Serverless Firewalls
 Code Review Don't be afraid to give up the good to go for the great. Cache Invalidation DNS Routing Content Delivery Network Logging API Gateway Pull Request
 Python Great things never come from comfort zones. Cloud Functions Neural Networks Success doesn’t just find you. You have to go out and get it. Load Balancing Backend GraphQL Automation Serverless
+Load Balancing Great things never come from comfort zones. Replica Set Microservices Innovation distinguishes between a leader and a follower. Firewalls A/B Testing Simplicity is the ultimate sophistication. Version Control Virtual Machines
