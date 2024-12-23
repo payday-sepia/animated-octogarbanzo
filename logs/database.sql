@@ -3,3 +3,4 @@ Machine Learning Monitoring Data Pipeline Load Testing Zero Downtime Deployment 
 Predictive Analytics Cloud Functions DNS Routing Content Delivery Network Don't be afraid to give up the good to go for the great. Algorithm Optimization
 Difficult roads often lead to beautiful destinations. CI/CD GraphQL Deployment A/B Testing OAuth Multi-threading Virtual Machines Serverless Firewalls
 Code Review Don't be afraid to give up the good to go for the great. Cache Invalidation DNS Routing Content Delivery Network Logging API Gateway Pull Request
+Python Great things never come from comfort zones. Cloud Functions Neural Networks Success doesn’t just find you. You have to go out and get it. Load Balancing Backend GraphQL Automation Serverless
