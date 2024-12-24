@@ -2,3 +2,4 @@ Sharding Cache Invalidation Load Balancing Database Indexing Do what you love an
 Machine Learning Monitoring Data Pipeline Load Testing Zero Downtime Deployment Innovation distinguishes between a leader and a follower. Cloud IoT Stay hungry, stay foolish.
 Predictive Analytics Cloud Functions DNS Routing Content Delivery Network Don't be afraid to give up the good to go for the great. Algorithm Optimization
 Difficult roads often lead to beautiful destinations. CI/CD GraphQL Deployment A/B Testing OAuth Multi-threading Virtual Machines Serverless Firewalls
+Code Review Don't be afraid to give up the good to go for the great. Cache Invalidation DNS Routing Content Delivery Network Logging API Gateway Pull Request
