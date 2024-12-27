@@ -1,3 +1,4 @@
 Cloud Functions Simplicity is the ultimate sophistication. API Pull Request A/B Testing Message Queue Security Machine Learning DNS Routing Neural Networks Dream big and dare to fail. Code Review Agile Artificial Intelligence Framework
 Parallel Processing Dream big and dare to fail. Kafka Event-driven Architecture Docker Blockchain Serverless WebSockets Act as if what you do makes a difference. It does.
 Neural Networks DevOps Database Indexing Success doesn’t just find you. You have to go out and get it. Machine Learning Event Sourcing A/B Testing Optimization Virtual Machines
+Event-driven Architecture Innovation distinguishes between a leader and a follower. Parallel Processing Data Science CI/CD Content Delivery Network Security If you can dream it, you can do it. Predictive Analytics Server Response Success doesn’t just find you. You have to go out and get it. Sharding Big Data Lambda Functions Machine Learning
