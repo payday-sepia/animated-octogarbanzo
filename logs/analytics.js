@@ -6,3 +6,4 @@ Deployment Load Testing If you can dream it, you can do it. Scalability Performa
 Load Testing Code Review API I find that the harder I work, the more luck I seem to have. Success is not in what you have, but who you are. Data Science Deployment Replica Set Opportunities don't happen. You create them. Microservices Blockchain Frontend Data Pipeline
 DNS Routing Firewalls Quantum Computing Automation Predictive Analytics Load Balancing
 Stay hungry, stay foolish. Framework Sharding Optimization Backend JWT Agile Code Review Virtual Machines Container Orchestration
+API Data Pipeline Artificial Intelligence Happiness is not something ready made. It comes from your own actions. Machine Learning
