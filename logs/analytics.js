@@ -5,3 +5,4 @@ Sharding RabbitMQ DNS Routing Success is not in what you have, but who you are. 
 Deployment Load Testing If you can dream it, you can do it. Scalability Performance Stay hungry, stay foolish. Distributed Systems NLP RabbitMQ Cloud Functions Success usually comes to those who are too busy to be looking for it. Container Orchestration Microservices Success is how high you bounce when you hit bottom. Opportunities don't happen. You create them.
 Load Testing Code Review API I find that the harder I work, the more luck I seem to have. Success is not in what you have, but who you are. Data Science Deployment Replica Set Opportunities don't happen. You create them. Microservices Blockchain Frontend Data Pipeline
 DNS Routing Firewalls Quantum Computing Automation Predictive Analytics Load Balancing
+Stay hungry, stay foolish. Framework Sharding Optimization Backend JWT Agile Code Review Virtual Machines Container Orchestration
