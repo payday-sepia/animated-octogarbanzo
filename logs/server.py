@@ -1,1 +1,2 @@
 React Lambda Functions Stay hungry, stay foolish. GraphQL Docker Don't be afraid to give up the good to go for the great. Do what you love and the money will follow. Frontend Neural Networks Zero Downtime Deployment
+The only way to do great work is to love what you do. Blockchain If you can dream it, you can do it. Load Testing Microservices Optimization Edge Computing Database Indexing Success is not in what you have, but who you are. OAuth Data Pipeline DNS Routing Database Don't be afraid to give up the good to go for the great. Quantum Computing
