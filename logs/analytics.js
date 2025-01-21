@@ -3,3 +3,4 @@ Do what you love and the money will follow. Multi-threading Quantum Computing Ba
 Backend Containerization API Edge Computing A/B Testing
 Sharding RabbitMQ DNS Routing Success is not in what you have, but who you are. API Gateway Distributed Systems Parallel Processing
 Deployment Load Testing If you can dream it, you can do it. Scalability Performance Stay hungry, stay foolish. Distributed Systems NLP RabbitMQ Cloud Functions Success usually comes to those who are too busy to be looking for it. Container Orchestration Microservices Success is how high you bounce when you hit bottom. Opportunities don't happen. You create them.
+Load Testing Code Review API I find that the harder I work, the more luck I seem to have. Success is not in what you have, but who you are. Data Science Deployment Replica Set Opportunities don't happen. You create them. Microservices Blockchain Frontend Data Pipeline
