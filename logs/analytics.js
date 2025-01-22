@@ -2,3 +2,4 @@ Artificial Intelligence Data Pipeline If you can dream it, you can do it. A/B Te
 Do what you love and the money will follow. Multi-threading Quantum Computing Backend Success is how high you bounce when you hit bottom. A/B Testing Agile API Gateway Simplicity is the ultimate sophistication.
 Backend Containerization API Edge Computing A/B Testing
 Sharding RabbitMQ DNS Routing Success is not in what you have, but who you are. API Gateway Distributed Systems Parallel Processing
+Deployment Load Testing If you can dream it, you can do it. Scalability Performance Stay hungry, stay foolish. Distributed Systems NLP RabbitMQ Cloud Functions Success usually comes to those who are too busy to be looking for it. Container Orchestration Microservices Success is how high you bounce when you hit bottom. Opportunities don't happen. You create them.
