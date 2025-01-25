@@ -1,1 +1,2 @@
 RabbitMQ Stay hungry, stay foolish. Microservices Optimization Big Data Database Indexing Dream big and dare to fail. Python Distributed Systems
+React Algorithm Serverless Work hard in silence, let your success be your noise. Automation Kafka JavaScript Cache Invalidation Monitoring Predictive Analytics Success is not in what you have, but who you are. Performance WebSockets IoT Simplicity is the ultimate sophistication.
