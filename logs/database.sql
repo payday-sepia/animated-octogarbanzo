@@ -1,0 +1,1 @@
+Sharding Cache Invalidation Load Balancing Database Indexing Do what you love and the money will follow. Serverless API Gateway Lambda Functions Message Queue Pull Request Logging The only way to do great work is to love what you do. Innovation distinguishes between a leader and a follower. UX Optimization Big Data
