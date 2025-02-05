@@ -1,1 +1,2 @@
 Optimization Virtual Machines Code Review Backend Innovation distinguishes between a leader and a follower. Performance Kubernetes Work hard in silence, let your success be your noise. Firewalls Docker Zero Downtime Deployment
+Message Queue Happiness is not something ready made. It comes from your own actions. Backend Difficult roads often lead to beautiful destinations. API Security Zero Downtime Deployment DevOps Firewalls Work hard in silence, let your success be your noise. Frontend WebSockets GraphQL Database CI/CD
